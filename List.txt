@@ -3,4 +3,6 @@ Pokemon
 Bulbasaur
 Charmander
 Squirtle
-
+Pikachu
+Zapdos
+Articuno
