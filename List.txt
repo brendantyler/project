@@ -1,7 +1,7 @@
 Numbers
 
-One
+1     
 2
-Three
+3
 4
-Five
+5
