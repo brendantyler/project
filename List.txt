@@ -5,3 +5,6 @@ Charmander
 Squirtle
 Voltorb
 Paras
+Pikachu
+Zapdos
+Articuno
