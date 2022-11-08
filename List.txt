@@ -1,4 +1,4 @@
-FIrst Six Numbers
+FIrst Nine Numbers
 
 One
 Two
@@ -6,3 +6,6 @@ Three
 Four
 Five
 Six
+Seven 
+Eight 
+Nine
