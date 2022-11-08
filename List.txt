@@ -1,7 +1,8 @@
-Numbers
+FIrst Six Numbers
 
 One
-2
+Two
 Three
-4
+Four
 Five
+Six
