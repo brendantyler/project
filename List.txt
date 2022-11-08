@@ -3,4 +3,5 @@ Pokemon
 Bulbasaur
 Charmander
 Squirtle
-
+Voltorb
+Paras
